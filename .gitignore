@@ -2,6 +2,10 @@
 logs
 *.log
 
+# Auth files
+*auth.json
+*config.json
+
 # Runtime data
 pids
 *.pid
